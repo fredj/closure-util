@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "acorn": "0.4.2",
+    "acorn": "2.0.4",
     "async": "0.2.9",
     "fs-extra": "^0.17.0",
     "gaze": "0.4.3",
